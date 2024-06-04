@@ -16,7 +16,7 @@ I’m currently learning Front End Development, App Development.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ovin390&" alt="ovin390" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ovin390&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ovin390" alt="ovin390" /></a> </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ovin390&limit=5&theme=onedark&combine_all_yearly_contributions=true)
