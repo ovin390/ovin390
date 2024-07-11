@@ -1,7 +1,9 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
 Hello! I'm Ovin, a dedicated engineer committed to professional growth and innovation in cutting-edge technology solutions. With a diverse skill set and a boundless curiosity, I thrive on exploring new possibilities and pushing the boundaries of what’s achievable.
+
 I am proficient in various programming languages, including Python, Java, C++, HTML/CSS, and SQL. These languages form the foundation of my ability to develop robust and efficient software solutions.
+
 I hold a B.E. in Information Science and Engineering from Sahyadri College of Engineering & Management. I completed my Pre-University education at St. Aloysius P.U. College and my S.S.L.C. at Milagres High School.
 
 
